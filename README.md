@@ -1,3 +1,9 @@
+# kotlin-react-todo
+
+Kotlin Reactで作成したTODOリストです
+
+---
+
 This project was bootstrapped with [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
 
 Below you will find some useful information on how to work with this application.<br>
